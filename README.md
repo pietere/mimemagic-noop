@@ -15,10 +15,10 @@ https://gist.github.com/mensfeld/3437de2fae7fc58faccbf28c2e825443
 but have depedencies that require `rails` it gets tricky
 this is where this gem comes in
 
-add this to your gemfile, to replace minemagic 0.3.5
+add this to your gemfile, to replace minemagic 0.3.0
 
 ```
-gem "mimemagic", git: "https://github.com/vizlegal/mimemagic-noop"
+gem "mimemagic", git: "https://github.com/pietere/mimemagic-noop"
 ```
 and run
 
